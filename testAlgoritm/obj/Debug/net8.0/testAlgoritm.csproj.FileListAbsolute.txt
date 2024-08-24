@@ -1,0 +1,14 @@
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\bin\Debug\net8.0\testAlgoritm.exe
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\bin\Debug\net8.0\testAlgoritm.deps.json
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\bin\Debug\net8.0\testAlgoritm.runtimeconfig.json
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\bin\Debug\net8.0\testAlgoritm.dll
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\bin\Debug\net8.0\testAlgoritm.pdb
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.AssemblyInfoInputs.cache
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.AssemblyInfo.cs
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.dll
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\refint\testAlgoritm.dll
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.pdb
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\testAlgoritm.genruntimeconfig.cache
+C:\Users\Comp_Motion\Desktop\testAlgoritm\testAlgoritm\obj\Debug\net8.0\ref\testAlgoritm.dll
